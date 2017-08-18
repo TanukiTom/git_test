@@ -1,3 +1,5 @@
 Creating a local file for the branch - OK
 
-Adding text locally, but not comitting test?
+Adding text locally, but not comitting test - OK
+
+Git-bash test?
