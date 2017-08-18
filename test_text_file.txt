@@ -1,4 +1,4 @@
-Adding a new file to test the branching.
+Adding a new file to test the branching. - OK
 
-#
-Adding this text on Github local enviroment
+Adding this text on Github local enviroment - OK
+==============================================
